@@ -97,7 +97,7 @@ const EXPERIENCES = [
     dates: 'May 2025 – Aug 2025',
     bullets: [
       'Worked on AI governance models for people with disabilities to improve representation in AI-generated images.',
-      'Currently writing a CHI paper (so more to come soon!)'
+      'Currently writing a publication (so more to come soon!)'
     ],
     images: ['/msr4.jpg', '/msr2.jpg', '/msr3.JPG', '/msr5.png', '/msr1.png', '/msr6.png']
   },
@@ -106,7 +106,7 @@ const EXPERIENCES = [
     location: 'Atlanta, GA',
     dates: 'Dec 2023 – Present',
     bullets: [
-      "Currently working on a paper for publication at CHI, exploring older adults' perceptions of medical mistrust and healthcare AI funded by the National Science Foundation (NSF).",
+      "Explored older adults' perceptions of medical mistrust and healthcare AI funded by the National Science Foundation (NSF).",
       'Organized and led weekly tech help workshops for older adults at a publicly subsidized housing site with site coordinators and undergraduate volunteers at community outreach lead.'
     ],
     images: ['/uroc.JPEG', '/uroc1.png']
